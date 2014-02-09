@@ -1,7 +1,7 @@
 shapefile-to-webmap
 ====
 
-Drag-and-drop an ESRI shapefile, and get back a GeoJSON web map
+Drag-and-drop an ESRI shapefile, and get back a GeoJSON web map. View it live [here](http://daguar.github.io/shapefile-to-webmap).
 
 ### Under the Hood
 
